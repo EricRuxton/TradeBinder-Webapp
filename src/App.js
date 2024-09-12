@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-          <h1>Trade Binder</h1>
+          <h1>Tradebinder</h1>
           <h3>From Bulk to Binder</h3>
           <p>Under Construction.</p>
       </header>
